@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CatPay</string>
+    <string name="enter_phone_number">Enter a regestered phone number</string>
+    <string name="Generate_OTP">Generate OTP</string>
+    <string name="registered_mobile_number">Please enter a regestered Phone Number</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_recharge">Recharge</string>
+    <string name="title_pay">Pay</string>
+
+</resources>

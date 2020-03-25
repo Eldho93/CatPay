@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548450609904",
+    "firebase_url": "https://catpay-369.firebaseio.com",
+    "project_id": "catpay-369",
+    "storage_bucket": "catpay-369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548450609904:android:02dfd357de3aae63667035",
+        "android_client_info": {
+          "package_name": "com.example.catpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548450609904-k4go65lf2p6h37pirsiv0t9dbgo9mt4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuy2_Ub66BG_E5R6NCV8eDctYuOxD8jx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548450609904-k4go65lf2p6h37pirsiv0t9dbgo9mt4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
